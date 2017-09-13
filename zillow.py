@@ -1,3 +1,5 @@
+# A script to query price info from zillow
+# Author : Rajeev Thottathil
 
 from xml.dom.minidom import parse,parseString
 import xml.dom.minidom
